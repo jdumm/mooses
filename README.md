@@ -1,6 +1,6 @@
 # Mooses
 
-Count how many moosies have gone over the river Älven in Den Stora Älgvandringen!
+Count how many moosies have gone over the river Älven in [Den Stora Älgvandringen](https://github.com/jdumm/mooses/blob/main/notebooks/Mooses.ipynb) on SVT Play!
 
 Status:
 * Reads a single frame (screenshot) from a file using OpenCV.
